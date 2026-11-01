@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "Bunyane | Digital Real Estate Investment Platform in Algeria",
+    "description": "Bunyane is an Algerian digital platform connecting investors with real estate developers through a digital investment infrastructure and blockchain-based ownership records.",
+    "ogTitle": "Bunyane — A New Vision for Real Estate Investment in Algeria",
+    "loginTitle": "Login | Bunyane",
+    "legalPrivacy": "Privacy Policy | Bunyane",
+    "legalTerms": "Terms and Conditions | Bunyane",
+    "legalRisk": "Investment Risk Disclosure | Bunyane"
+  },
+  "common": {
+    "brand": "Bunyane",
+    "skip": "Skip to main content",
+    "backHome": "Back to home"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "how": "How It Works",
+    "opportunities": "Investment Opportunities",
+    "faq": "FAQ",
+    "login": "Login",
+    "cta": "Discover Bunyane",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "hero": {
+    "headline": "<highlight>Algeria</highlight>’s first platform for real estate investment.",
+    "description": "We connect investors and developers through a clear, structured digital experience—to finance real estate projects and build lasting value.",
+    "primary": "Discover Bunyane",
+    "secondary": "How does the platform work?",
+    "imageAlt": "Modern glass skyscraper reflecting the sky in daylight",
+    "notice": "This website is informational at this stage. Investing involves risk."
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Reimagining the future of real estate investment.",
+    "description": "Bunyane is an Algerian digital platform that aims to modernise how real estate projects are financed, by connecting investors with developers and using modern technology to offer a more transparent and better-organised investment experience.",
+    "points": [
+      "A clear link between investors and developers",
+      "A structured digital journey from discovery to tracking",
+      "Digital records that make operations traceable"
+    ],
+    "aside": "Real architecture. Structured investing. Digital trust.",
+    "imageAlt": "Contemporary villa with glass facades and a landscaped front garden"
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Buildings that inspire our vision.",
+    "subtitle": "Real architecture reflecting the platform’s ambition to build sustainable, transparent real-estate value.",
+    "items": [
+      { "title": "Mixed-use Complex", "meta": "Commercial & residential" },
+      { "title": "Modern Residence", "meta": "Premium apartments" },
+      { "title": "Urban Residential Tower", "meta": "City living" }
+    ]
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "title": "Services for the whole real estate investment ecosystem",
+    "subtitle": "Five pillars that make up the platform's digital infrastructure.",
+    "items": [
+      {
+        "title": "Digital Real Estate Investment",
+        "description": "Enabling investors to subscribe to shares of real estate project companies under the applicable conditions."
+      },
+      {
+        "title": "Real Estate Project Financing",
+        "description": "Providing a digital infrastructure that helps developers present their projects and connect with investors."
+      },
+      {
+        "title": "Digital Ownership Registry",
+        "description": "Recording shares and transactions in a distributed digital ledger that allows the history of operations to be verified."
+      },
+      {
+        "title": "Investment Management",
+        "description": "Enabling investors to follow their contributions, their shares and the operations related to their investments."
+      },
+      {
+        "title": "Transparency & Audit",
+        "description": "Making it possible to verify transactions, digital records and smart contracts."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "The journey",
+    "title": "How does Bunyane work?",
+    "subtitle": "Four simple steps that sum up the investor journey.",
+    "stepLabel": "Step",
+    "steps": [
+      {
+        "title": "Discover Projects",
+        "description": "Browse the real estate projects presented by developers, when available, with clear information on each one."
+      },
+      {
+        "title": "Explore Opportunities",
+        "description": "Review project details, subscription conditions and associated risks, and compare before you decide."
+      },
+      {
+        "title": "Subscribe",
+        "description": "Subscribe to the project company's shares under the applicable conditions. Your subscription is recorded digitally."
+      },
+      {
+        "title": "Track Your Investment",
+        "description": "Review your contributions, your shares and the related operations in one place."
+      }
+    ]
+  },
+  "ecosystem": {
+    "eyebrow": "The ecosystem",
+    "title": "An investment ecosystem that brings parties together.",
+    "subtitle": "Three parties, one digital infrastructure organising the relationship between them.",
+    "investor": {
+      "title": "Investor",
+      "description": "Individuals taking part in real estate project share subscriptions."
+    },
+    "developer": {
+      "title": "Real Estate Developer",
+      "description": "Companies presenting projects and seeking financing."
+    },
+    "bunyane": {
+      "title": "Bunyane",
+      "description": "The digital infrastructure connecting the parties and supporting the investment process."
+    },
+    "linkInvest": "Subscribes",
+    "linkPresent": "Presents projects",
+    "diagramLabel": "Diagram showing the relationship between the investor, the real estate developer and Bunyane"
+  },
+  "blockchain": {
+    "eyebrow": "Technology",
+    "title": "Technology in the service of trust.",
+    "subtitle": "Bunyane uses blockchain to record operations in a way that can be traced and verified.",
+    "items": [
+      {
+        "title": "Digital ownership records",
+        "description": "Shares are entered in a shared digital ledger that is hard to alter quietly."
+      },
+      {
+        "title": "Transaction traceability",
+        "description": "Each operation keeps its trail over time, so its history can be reviewed."
+      },
+      {
+        "title": "Smart contract execution",
+        "description": "Programs that automatically apply pre-agreed conditions when they are met."
+      },
+      {
+        "title": "Public verification",
+        "description": "Recorded transactions can be verified without relying on a single party."
+      }
+    ],
+    "plainTitle": "In plain terms",
+    "plain": "Picture a shared notebook in which every operation is written down, and several parties hold a copy. Once a new page is added, it becomes hard to change earlier pages without the others noticing. That is the basic idea of a blockchain.",
+    "disclaimerTitle": "Please note",
+    "disclaimer": "Blockchain alone does not guarantee legal ownership, investment security or returns. Rights and obligations depend on the applicable legal framework and contracts.",
+    "chainLabel": "Diagram showing a chain of linked digital records"
+  },
+  "why": {
+    "eyebrow": "Our strengths",
+    "title": "Why Bunyane?",
+    "items": [
+      {
+        "title": "A digital-first investment experience",
+        "description": "A clear, smooth path from discovering opportunities to tracking an investment."
+      },
+      {
+        "title": "Access to real estate opportunities",
+        "description": "A structured gateway to real estate projects, when they are made available."
+      },
+      {
+        "title": "Transparent transaction records",
+        "description": "Operations recorded digitally, available to review and verify."
+      },
+      {
+        "title": "An innovative financing ecosystem",
+        "description": "A new approach that brings real estate financing together with modern technology."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Answers to your main questions",
+    "subtitle": "General and cautious information. These answers are not investment advice.",
+    "items": [
+      {
+        "q": "What is Bunyane?",
+        "a": "Bunyane is an Algerian digital platform that aims to connect investors with real estate developers, providing an infrastructure to present projects, subscribe to their companies' shares and track operations. The current website is informational and is not an investment offer."
+      },
+      {
+        "q": "How can I take part in investing?",
+        "a": "Once the platform opens, you will be able to review the projects presented, study their conditions and then subscribe following the applicable procedures and conditions. Participation depends on meeting the legal and regulatory requirements in force."
+      },
+      {
+        "q": "What are digital shares?",
+        "a": "They are shares in a real estate project company whose subscription and related operations are recorded in a digital ledger. The shareholder's rights and obligations remain governed by law, the company's articles and the relevant contracts."
+      },
+      {
+        "q": "How is share ownership recorded?",
+        "a": "Shares and transactions are entered in a distributed digital ledger that allows the history of operations to be verified. This ledger does not by itself replace the legal requirements for proving ownership, which fall under the applicable legal framework."
+      },
+      {
+        "q": "Does investing guarantee profits?",
+        "a": "No. Every investment involves risk: its value can fluctuate and an investor may lose part or all of their capital. Bunyane does not guarantee any profits or returns. Please study each opportunity carefully and consult a professional."
+      },
+      {
+        "q": "How can I track my investments?",
+        "a": "The platform aims to let investors follow their contributions, their shares and the related operations from their personal account, once that service is available."
+      },
+      {
+        "q": "Can shares be transferred or sold?",
+        "a": "Whether shares can be transferred or sold depends on the legal and contractual conditions that apply to each project. It may be restricted or unavailable in some cases. Review each project's conditions before subscribing."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Discover new horizons for real estate investment.",
+    "description": "Join the Bunyane ecosystem and discover the future of digital real estate investment in Algeria.",
+    "button": "Discover Bunyane"
+  },
+  "login": {
+    "title": "Login",
+    "description": "The platform is at its introduction stage. The opening of accounts will be announced once everything is ready and the necessary approvals are in place.",
+    "badge": "Coming soon"
+  },
+  "legal": {
+    "placeholderNote": "Placeholder text: this content will be replaced by the approved legal text before launch.",
+    "privacy": {
+      "title": "Privacy Policy",
+      "body": "This page will explain how Bunyane collects, uses and protects personal data, and users' rights under the laws applicable in Algeria."
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "body": "This page will set out the terms of use of the website and platform, the scope of services and the responsibilities of the parties, under the applicable legal framework."
+    },
+    "risk": {
+      "title": "Investment Risk Disclosure",
+      "body": "Investing in real estate projects and shares involves risk, including loss of all or part of the capital, fluctuation in value and limited ability to transfer or sell. Bunyane does not guarantee any profits or returns. This website is informational and is neither an offer nor investment advice."
+    }
+  },
+  "footer": {
+    "description": "An Algerian digital platform that aims to modernise real estate project financing by connecting investors with developers.",
+    "navTitle": "Links",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "contact": {
+      "email": "Email: [to be added]",
+      "phone": "Phone: [to be added]",
+      "address": "Address: [to be added]"
+    },
+    "socialTitle": "Follow us",
+    "socialSoon": "Coming soon",
+    "social": ["Facebook", "LinkedIn", "Instagram"],
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "risk": "Investment Risk Disclosure",
+    "riskNotice": "Notice: investing involves risk and may result in loss of capital. This website does not guarantee any profits. It is informational only and, at this stage, is not an authorised investment service.",
+    "copyright": "© {year} Bunyane. All rights reserved."
+  }
+}

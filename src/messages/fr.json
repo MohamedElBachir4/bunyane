@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "Bunyane | Plateforme d'investissement immobilier numérique en Algérie",
+    "description": "Bunyane est une plateforme numérique algérienne qui met en relation investisseurs et promoteurs immobiliers grâce à une infrastructure d'investissement digitale et des registres de propriété basés sur la blockchain.",
+    "ogTitle": "Bunyane — Une nouvelle vision de l'investissement immobilier en Algérie",
+    "loginTitle": "Connexion | Bunyane",
+    "legalPrivacy": "Politique de confidentialité | Bunyane",
+    "legalTerms": "Conditions générales | Bunyane",
+    "legalRisk": "Avertissement sur les risques | Bunyane"
+  },
+  "common": {
+    "brand": "Bunyane",
+    "skip": "Aller au contenu principal",
+    "backHome": "Retour à l'accueil"
+  },
+  "nav": {
+    "label": "Navigation principale",
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Nos services",
+    "how": "Comment ça marche",
+    "opportunities": "Opportunités d'investissement",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "cta": "Découvrir Bunyane",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue"
+  },
+  "hero": {
+    "headline": "La première plateforme d’investissement immobilier en <highlight>Algérie</highlight>.",
+    "description": "Nous relions investisseurs et promoteurs via une expérience numérique claire et structurée, pour financer les projets immobiliers et créer une valeur durable.",
+    "primary": "Découvrir Bunyane",
+    "secondary": "Comment fonctionne la plateforme ?",
+    "imageAlt": "Gratte-ciel de verre moderne reflétant le ciel en plein jour",
+    "notice": "Ce site est informatif à ce stade. Tout investissement comporte des risques."
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Repenser l'avenir de l'investissement immobilier.",
+    "description": "Bunyane est une plateforme numérique algérienne qui vise à faire évoluer les mécanismes de financement des projets immobiliers, en reliant les investisseurs aux promoteurs et en s'appuyant sur les technologies modernes pour offrir une expérience d'investissement plus transparente et mieux structurée.",
+    "points": [
+      "Un lien clair entre investisseurs et promoteurs",
+      "Un parcours numérique structuré, de la découverte au suivi",
+      "Des registres numériques permettant de retracer les opérations"
+    ],
+    "aside": "Architecture réelle. Investissement structuré. Confiance numérique.",
+    "imageAlt": "Villa contemporaine aux façades vitrées et jardin paysager"
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "title": "Des bâtiments qui inspirent notre vision.",
+    "subtitle": "Une architecture réelle qui reflète l'ambition de la plateforme : bâtir une valeur immobilière durable et transparente.",
+    "items": [
+      { "title": "Complexe mixte", "meta": "Commerce & résidentiel" },
+      { "title": "Résidence moderne", "meta": "Appartements premium" },
+      { "title": "Tour résidentielle", "meta": "Habitat urbain" }
+    ]
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "title": "Des services pour tout l'écosystème de l'investissement immobilier",
+    "subtitle": "Cinq piliers qui composent l'infrastructure numérique de la plateforme.",
+    "items": [
+      {
+        "title": "Investissement immobilier numérique",
+        "description": "Permettre aux investisseurs de souscrire aux actions de sociétés de projets immobiliers, selon les conditions en vigueur."
+      },
+      {
+        "title": "Financement de projets immobiliers",
+        "description": "Fournir une infrastructure numérique qui aide les promoteurs à présenter leurs projets et à les relier aux investisseurs."
+      },
+      {
+        "title": "Registre de propriété numérique",
+        "description": "Enregistrer les actions et les transactions dans un registre numérique distribué permettant de vérifier l'historique des opérations."
+      },
+      {
+        "title": "Gestion des investissements",
+        "description": "Permettre aux investisseurs de suivre leurs participations, leurs actions et les opérations liées à leurs investissements."
+      },
+      {
+        "title": "Transparence et audit",
+        "description": "Offrir la possibilité de vérifier les transactions, les registres numériques et les contrats intelligents."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Le parcours",
+    "title": "Comment fonctionne Bunyane ?",
+    "subtitle": "Quatre étapes simples qui résument le parcours de l'investisseur.",
+    "stepLabel": "Étape",
+    "steps": [
+      {
+        "title": "Découvrez les projets",
+        "description": "Parcourez les projets immobiliers présentés par les promoteurs, lorsqu'ils sont disponibles, avec des informations claires sur chacun."
+      },
+      {
+        "title": "Étudiez les opportunités",
+        "description": "Consultez les détails du projet, les conditions de souscription et les risques associés, et comparez avant de décider."
+      },
+      {
+        "title": "Souscrivez",
+        "description": "Souscrivez aux actions de la société du projet selon les conditions applicables. Votre souscription est enregistrée numériquement."
+      },
+      {
+        "title": "Suivez votre investissement",
+        "description": "Consultez vos participations, vos actions et les opérations associées depuis un seul espace."
+      }
+    ]
+  },
+  "ecosystem": {
+    "eyebrow": "L'écosystème",
+    "title": "Un écosystème qui rassemble les parties.",
+    "subtitle": "Trois acteurs, une seule infrastructure numérique pour organiser leur relation.",
+    "investor": {
+      "title": "Investisseur",
+      "description": "Des particuliers qui participent aux souscriptions d'actions de projets immobiliers."
+    },
+    "developer": {
+      "title": "Promoteur immobilier",
+      "description": "Des sociétés qui présentent leurs projets et recherchent un financement."
+    },
+    "bunyane": {
+      "title": "Bunyane",
+      "description": "L'infrastructure numérique qui relie les parties et soutient le processus d'investissement."
+    },
+    "linkInvest": "Souscrit",
+    "linkPresent": "Présente ses projets",
+    "diagramLabel": "Schéma de la relation entre l'investisseur, le promoteur immobilier et Bunyane"
+  },
+  "blockchain": {
+    "eyebrow": "Technologie",
+    "title": "La technologie au service de la confiance.",
+    "subtitle": "Bunyane s'appuie sur la blockchain pour enregistrer les opérations de façon traçable et vérifiable.",
+    "items": [
+      {
+        "title": "Registres de propriété numériques",
+        "description": "Les actions sont inscrites dans un registre numérique partagé, difficile à modifier discrètement."
+      },
+      {
+        "title": "Traçabilité des transactions",
+        "description": "Chaque opération conserve sa trace dans le temps, et son historique peut être consulté."
+      },
+      {
+        "title": "Exécution de contrats intelligents",
+        "description": "Des programmes qui appliquent automatiquement des conditions convenues à l'avance lorsqu'elles sont réunies."
+      },
+      {
+        "title": "Vérification publique",
+        "description": "Les transactions enregistrées peuvent être vérifiées sans dépendre d'une seule partie."
+      }
+    ],
+    "plainTitle": "En termes simples",
+    "plain": "Imaginez un cahier partagé où chaque opération est notée, et dont plusieurs personnes détiennent une copie. Quand une nouvelle page est ajoutée, il devient difficile de modifier les pages précédentes sans que les autres s'en aperçoivent. C'est l'idée de base de la blockchain.",
+    "disclaimerTitle": "À noter",
+    "disclaimer": "La blockchain seule ne garantit ni la propriété juridique, ni la sécurité de l'investissement, ni des rendements. Les droits et obligations dépendent du cadre légal et des contrats applicables.",
+    "chainLabel": "Schéma de l'enchaînement des enregistrements numériques"
+  },
+  "why": {
+    "eyebrow": "Nos atouts",
+    "title": "Pourquoi Bunyane ?",
+    "items": [
+      {
+        "title": "Une expérience d'investissement d'abord numérique",
+        "description": "Un parcours clair et fluide, de la découverte des opportunités au suivi de l'investissement."
+      },
+      {
+        "title": "Un accès aux opportunités immobilières",
+        "description": "Une porte d'entrée structurée vers des projets immobiliers, lorsqu'ils sont disponibles."
+      },
+      {
+        "title": "Des registres de transactions transparents",
+        "description": "Des opérations enregistrées numériquement, consultables et vérifiables."
+      },
+      {
+        "title": "Un écosystème de financement innovant",
+        "description": "Une approche nouvelle qui associe financement immobilier et technologies modernes."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Réponses à vos questions principales",
+    "subtitle": "Informations générales et prudentes. Ces réponses ne constituent pas un conseil en investissement.",
+    "items": [
+      {
+        "q": "Qu'est-ce que Bunyane ?",
+        "a": "Bunyane est une plateforme numérique algérienne qui vise à relier investisseurs et promoteurs immobiliers, en offrant une infrastructure pour présenter des projets, souscrire aux actions de leurs sociétés et suivre les opérations. Le site actuel est informatif et ne constitue pas une offre d'investissement."
+      },
+      {
+        "q": "Comment puis-je participer à l'investissement ?",
+        "a": "Lorsque la plateforme sera ouverte, vous pourrez consulter les projets présentés, étudier leurs conditions, puis souscrire selon les procédures et conditions applicables. La participation est soumise au respect des exigences légales et réglementaires en vigueur."
+      },
+      {
+        "q": "Que sont les actions numériques ?",
+        "a": "Ce sont des actions d'une société de projet immobilier dont la souscription et les opérations associées sont enregistrées dans un registre numérique. Les droits et obligations de l'actionnaire restent régis par la loi, les statuts et les contrats concernés."
+      },
+      {
+        "q": "Comment la propriété des actions est-elle enregistrée ?",
+        "a": "Les actions et les transactions sont inscrites dans un registre numérique distribué qui permet de vérifier l'historique des opérations. Ce registre ne remplace pas à lui seul les exigences juridiques de preuve de la propriété, qui relèvent du cadre légal applicable."
+      },
+      {
+        "q": "L'investissement garantit-il des bénéfices ?",
+        "a": "Non. Tout investissement comporte des risques : sa valeur peut fluctuer et l'investisseur peut perdre une partie ou la totalité de son capital. Bunyane ne garantit aucun bénéfice ni rendement. Étudiez chaque opportunité avec soin et consultez un professionnel."
+      },
+      {
+        "q": "Comment puis-je suivre mes investissements ?",
+        "a": "La plateforme vise à permettre à l'investisseur de suivre ses participations, ses actions et les opérations associées depuis son espace personnel, lorsque ce service sera disponible."
+      },
+      {
+        "q": "Peut-on céder ou vendre ses actions ?",
+        "a": "La possibilité de céder ou de vendre des actions dépend des conditions légales et contractuelles propres à chaque projet. Elle peut être limitée, voire indisponible dans certains cas. Consultez les conditions du projet avant de souscrire."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Découvrez de nouveaux horizons pour l'investissement immobilier.",
+    "description": "Rejoignez l'écosystème Bunyane et découvrez l'avenir de l'investissement immobilier numérique en Algérie.",
+    "button": "Découvrir Bunyane"
+  },
+  "login": {
+    "title": "Connexion",
+    "description": "La plateforme en est à sa phase de présentation. L'ouverture des comptes sera annoncée lorsque tout sera prêt et que les autorisations nécessaires seront obtenues.",
+    "badge": "Bientôt"
+  },
+  "legal": {
+    "placeholderNote": "Texte provisoire : ce contenu sera remplacé par le texte juridique validé avant le lancement.",
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "body": "Cette page expliquera comment Bunyane collecte, utilise et protège les données personnelles, ainsi que les droits des utilisateurs au titre des lois applicables en Algérie."
+    },
+    "terms": {
+      "title": "Conditions générales",
+      "body": "Cette page définira les conditions d'utilisation du site et de la plateforme, le périmètre des services et les responsabilités des parties, selon le cadre juridique applicable."
+    },
+    "risk": {
+      "title": "Avertissement sur les risques d'investissement",
+      "body": "L'investissement dans des projets immobiliers et des actions comporte des risques, notamment la perte totale ou partielle du capital, la fluctuation de la valeur et une possibilité de cession limitée. Bunyane ne garantit aucun bénéfice ni rendement. Ce site est informatif et ne constitue ni une offre ni un conseil en investissement."
+    }
+  },
+  "footer": {
+    "description": "Plateforme numérique algérienne qui vise à faire évoluer le financement des projets immobiliers en reliant investisseurs et promoteurs.",
+    "navTitle": "Liens",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "contact": {
+      "email": "E-mail : [à compléter]",
+      "phone": "Téléphone : [à compléter]",
+      "address": "Adresse : [à compléter]"
+    },
+    "socialTitle": "Suivez-nous",
+    "socialSoon": "Bientôt",
+    "social": ["Facebook", "LinkedIn", "Instagram"],
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "risk": "Avertissement sur les risques",
+    "riskNotice": "Avertissement : tout investissement comporte des risques pouvant entraîner une perte de capital. Ce site ne garantit aucun bénéfice. Il est informatif uniquement et ne constitue pas, à ce stade, un service d'investissement agréé.",
+    "copyright": "© {year} Bunyane. Tous droits réservés."
+  }
+}

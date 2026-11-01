@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Architectural drawing">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="900" fill="#123b43"/>
+  <rect width="800" height="900" fill="url(#g)"/>
+  <g fill="none" stroke="#eaf0ef" stroke-width="2" stroke-opacity="0.9">
+    <rect x="170" y="190" width="460" height="560"/>
+    <path d="M170 330H630M170 470H630M170 610H630"/>
+    <path d="M310 190V750M470 190V750"/>
+    <path d="M130 750H670"/>
+  </g>
+  <g fill="#1e5961" stroke="#eaf0ef" stroke-opacity="0.7" stroke-width="1.5">
+    <rect x="195" y="215" width="90" height="90"/><rect x="335" y="215" width="110" height="90"/><rect x="495" y="215" width="110" height="90"/>
+    <rect x="195" y="355" width="90" height="90"/><rect x="335" y="355" width="110" height="90"/><rect x="495" y="355" width="110" height="90"/>
+    <rect x="195" y="495" width="90" height="90"/><rect x="335" y="495" width="110" height="90"/><rect x="495" y="495" width="110" height="90"/>
+    <rect x="335" y="640" width="110" height="110"/>
+  </g>
+  <g stroke="#c4a66a" stroke-width="2">
+    <path d="M100 190H150M100 750H150M125 190V750" fill="none"/>
+    <path d="M170 140H630M170 125V155M630 125V155" fill="none"/>
+  </g>
+  <g fill="#c4a66a" opacity="0.9"><circle cx="125" cy="470" r="4"/><circle cx="400" cy="140" r="4"/></g>
+</svg>

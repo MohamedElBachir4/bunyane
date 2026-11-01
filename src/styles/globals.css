@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0b1c20;
+  --color-secondary: #1a3d44;
+  --color-surface: #f2f4f5;
+  --color-soft: #e6ebed;
+  --color-ink: #12191b;
+  --color-bronze: #b08d57;
+  --color-gold: #b08d57;
+  --color-muted: #5a686c;
+  --font-latin: "Outfit Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-arabic: var(--font-ibm-plex-arabic), "IBM Plex Sans Arabic", ui-sans-serif, system-ui, sans-serif;
+  --shadow-card: 0 1px 0 rgb(11 28 32 / 0.06);
+  --shadow-lift: 0 24px 48px -28px rgb(11 28 32 / 0.35);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-latin);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+
+html[lang="ar"] body {
+  font-family: var(--font-arabic);
+}
+
+.type-display {
+  font-family: "Cormorant Garamond", "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+html[lang="ar"] .type-display {
+  font-family: var(--font-arabic);
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-bronze);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.hero-kenburns {
+  animation: kenburns 28s ease-out forwards;
+  transform-origin: center center;
+}
+
+@keyframes kenburns {
+  from {
+    transform: scale(1.08);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-kenburns {
+    animation: none;
+    transform: none;
+  }
+}
+
+.grain {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.45'/%3E%3C/svg%3E");
+  opacity: 0.18;
+  mix-blend-mode: overlay;
+}
+
+.arch-line {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgb(176 141 87 / 0.55),
+    transparent
+  );
+}
